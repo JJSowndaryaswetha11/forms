@@ -68,7 +68,7 @@ const Register = () => {
         }
     }
     return (
-        <div>
+        <div className="containers">
             <div className="offset-lg-3 col-lg-6">
                 <form className="container" onSubmit={handlesubmit}>
                     <div className="cards">

@@ -7,7 +7,9 @@ const Home = () => {
    
     useEffect(() => {
        
-
+    <div className="home">
+        
+    </div>
        
 
     }, []);
