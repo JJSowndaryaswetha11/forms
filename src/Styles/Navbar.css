@@ -8,6 +8,7 @@ body{
     position: relative;
     overflow: hidden;
     max-width: 100%; 
+    background-repeat: no-repeat;
 }
 body img{
     width: 100%; /* Make the image fill its container */
