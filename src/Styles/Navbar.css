@@ -3,9 +3,6 @@
     transition: 0.5s;
     margin: 7px;
 }
-body{
-    background-color: blueviolet;
-}
 
 
 
@@ -58,7 +55,7 @@ nav .Menu{
 nav .Menu span{
     height: 0.4rem;
     width:100%;
-    background-color:white;
+    background-color:purple;
     border-radius: 0.2rem;
 
 }
