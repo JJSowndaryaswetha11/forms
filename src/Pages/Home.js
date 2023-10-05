@@ -12,18 +12,7 @@ const Home = () => {
 
     }, []);
 
-    return (
-        <div className="paras">
-            
-            <h3 > Always at your service </h3>
-      
-        
-      
-     
-      <button className='button'> Learn More</button>
-            
-        </div>
-    );
+    
 }
 
 export default Home;
