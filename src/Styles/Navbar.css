@@ -4,16 +4,7 @@
     margin: 7px;
 }
 body{
-    background-image: url('../Assets/image1.jpg');
-    position: relative;
-    overflow: hidden;
-    max-width: 100%; 
-    background-repeat: no-repeat;
-}
-body img{
-    width: 100%; /* Make the image fill its container */
-    height: auto; /* Maintain the original aspect ratio */
-    display: block; /* Remove any extra spacing */
+    background-color: blueviolet;
 }
 
 
