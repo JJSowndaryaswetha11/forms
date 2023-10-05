@@ -7,14 +7,26 @@ const Home = () => {
    
     useEffect(() => {
        
-    <div className="home">
         
-    </div>
-       
 
     }, []);
-
+    
+      
+   return(
+    <div className='paras'>
+      <h1 > Always at your service</h1>
+      
+        
+      
+     
+      <button className='button'> BUY NOW</button>
+      
+     
+      </div>
+   )  
+      
     
 }
+
 
 export default Home;

@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 import { Container } from 'react-bootstrap';
 import {Link, useNavigate} from 'react-router-dom'
 import { toast } from 'react-toastify';
-import '../Styles/Login.css'
+
 
 const Login = () => {
     const[username, usernameupdate]=useState("");

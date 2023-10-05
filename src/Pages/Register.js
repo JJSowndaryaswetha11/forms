@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import {toast} from 'react-toastify'
-import "../Styles/Register.css"
+
 
 const Register = () => {
 
@@ -68,7 +68,7 @@ const Register = () => {
         }
     }
     return (
-        <div className="containers">
+        <div className="container">
             <div className="offset-lg-3 col-lg-6">
                 <form className="container" onSubmit={handlesubmit}>
                     <div className="cards">
